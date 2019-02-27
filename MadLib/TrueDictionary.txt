@@ -1,0 +1,26 @@
+Name Pool:     (Name1,Name2,Name3,Name4)
+Terrell*Monty*Jemima*Herman*Fifi*Bongo*Rudy
+
+Place Pool:    (Place1,Place2,Place3,Place4)
+The Louvre*New York City*Fort Knox*Library of Alexandria*The North Pole*Area 51*Mars*Atlantis*Salt Lake Comic Con*Sharmin Smith Student Center
+
+Item Pool:     (Item1,Item2)
+microphone*megaphone*swiss cheese*raspberry pi*tennis racket*AC unit*bar of gold*spray can*wire
+
+Past Tense Verb Pool:  (PastVerb)
+jumped*cried*leaped*flew*slithered*ate*colored*slid*danced
+
+Desperate Cry Pool:    (DesperateCry)
+Help! I'm a prisoner and I can't get out!*wingardium leviosa*Gandalf!*TROG DOOOOOOORRRRRRR!
+
+Wisdom Phrase Pool:    (WisdomPhrase)
+We're all prisoners. We're all locked in*It's leviosa not leviosa*fly fools*He was a dragon. He was a dragon man*If you immediately know the candle light it fire, and the meal was cooked long ago
+
+Creature Pool:         (Creature)
+The Last Unicorn*Trog Dor*Were Wolf*The Kool Aid Man*My Creepy Neighbor*The Monopoly Man
+
+Action Pool:    (Action1,Action2)
+ran away*paniced for no apparent reason*stolen*cheated death
+
+Mood Pool:   (Mood1)
+sad*happy*angry*depressed*desperate*unfortunate*guilty*anxious*upset*aggravated*hungry*tired*heartless

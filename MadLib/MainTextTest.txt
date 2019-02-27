@@ -1,0 +1,9 @@
+My new favorite word is*blank1*. Don't you think it sounds cool? No? Of course you wouldn't. How about this one:*blank2*. Even better huh?
+Here is the next line and I have more words to say:*blank1*. Repeat same word:*blank1*. Here is another word:*blank2*.
+The third line with words: *blank1* and *blank2*.
+1
+2
+3
+4
+Turtles
+Next one will loop back: *blank2* <- Another word just for fun
